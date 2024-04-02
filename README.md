@@ -8,4 +8,4 @@ HTML, CSS & JavaScript
 
 # Preview:
 This is preview of the project. You can visit live preview on Here.
-[Click here..](https://stop-watch-task.netlify.app)
+    [Click here..](https://stop-watch-task.netlify.app)
